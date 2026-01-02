@@ -1,6 +1,17 @@
 # -How-Pick-Up-Lines-and-Personal-Scent-Influence-Relationship-Initiation-
 ## Analysis Overview
    This study aims to understand how pick-up lines and personal scent contribute to relationship initiation by first testing whether the attractiveness effects of personal scent are enhanced by the use of pick-up lines.
+   
+   Fron the PickUpLines.csv dataset,
+   
+   PickUp is encoded as: 1 = cute-direct,
+                         2 = direct-direct
+   
+   and
+
+   Scent is encoded as: 1 = spray,
+                        2 = no spray
+
 ## Data Source
    The data used in this analysis was sourced from a CSV file named 'PickUpLines'
 ## Tools
