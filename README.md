@@ -1,5 +1,5 @@
 # Analyzing User Response to Communication Styles Using Statistical Methods
-## Analysis Overview
+## Project Overview
    This study aims to understand how pick-up lines and personal scent contribute to relationship initiation by first testing whether the attractiveness effects of personal scent are enhanced by the use of pick-up lines.
    
    Fron the PickUpLines.csv dataset,
