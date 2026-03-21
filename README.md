@@ -1,6 +1,6 @@
 # Analyzing User Response to Communication Styles Using Statistical Methods
 ## Project Overview
-   This study aims to understand how pick-up lines and personal scent contribute to relationship initiation by first testing whether the attractiveness effects of personal scent are enhanced by the use of pick-up lines.
+   This project analyzes how different communication styles and external factors influence user receptivity using statistical methods.
    
    Fron the PickUpLines.csv dataset,
    
@@ -15,6 +15,7 @@
 ## Data Source
    The data used in this analysis was sourced from a CSV file named 'PickUpLines'
 ## Tools
+   -Python- Pandas, Scipy, Statmodels
    - SQL- Data Cleaning
    - Python- Data Analysis
 ## Data Preparation
@@ -29,6 +30,9 @@
    - Is there equality of variance between the groups?
 ## Data Analysis
    A Python script has been attached to this documentation.
+
+## Key Insight
+   Communication style significantly impacts user response, especially when combined with external factors, showing a strong interaction      effect.
 
 ## Result
    A robust heteroscedastic two-way analysis of variance (ANOVA; HC3) was conducted to examine whether the effect of androstenedione spray (spray vs. no spray) on attractiveness (receptivity) was moderated by pick-up approach (cute-direct vs. direct-direct). The analysis revealed a significant interaction between scent and pick-up approach, F(1, 190) = 8.18, p = 0.005, η² = 0.04, indicating that the effect of androstenedione spray on attractiveness depended on the pick-up approach used.
