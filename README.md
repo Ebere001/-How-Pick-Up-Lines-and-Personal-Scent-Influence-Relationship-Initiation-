@@ -17,7 +17,7 @@
 ## Tools
    - SQL- Data Cleaning
    - Python- Pandas, Scipy, Statmodels
-   - Python- Data Analysis
+   - Jupiter Notebook
    
 ## Data Preparation
    During the initial data preparation stage, I carried out the following tasks:
