@@ -15,9 +15,10 @@
 ## Data Source
    The data used in this analysis was sourced from a CSV file named 'PickUpLines'
 ## Tools
-   -Python- Pandas, Scipy, Statmodels
    - SQL- Data Cleaning
+   - Python- Pandas, Scipy, Statmodels
    - Python- Data Analysis
+   
 ## Data Preparation
    During the initial data preparation stage, I carried out the following tasks:
    - Data loading and inspection
