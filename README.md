@@ -33,7 +33,9 @@
    A Python script has been attached to this documentation.
 
 ## Key Insight
-   Communication style significantly impacts user response, especially when combined with external factors, showing a strong interaction      effect.
+   - Communication style alone does not determine response
+   - External factors amplify effectiveness
+   - The combination of both yields the highest engagement
 
 ## Result
    A robust heteroscedastic two-way analysis of variance (ANOVA; HC3) was conducted to examine whether the effect of androstenedione spray (spray vs. no spray) on attractiveness (receptivity) was moderated by pick-up approach (cute-direct vs. direct-direct). The analysis revealed a significant interaction between scent and pick-up approach, F(1, 190) = 8.18, p = 0.005, η² = 0.04, indicating that the effect of androstenedione spray on attractiveness depended on the pick-up approach used.
